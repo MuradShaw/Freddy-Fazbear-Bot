@@ -1,0 +1,24 @@
+{
+    "shop": 
+    {
+        "items": [
+            { "id": 1, "name":"Butter Sword", "desc": "A stick of butter slapped onto a hilt", "cost": 80, "image":""},
+            { "id": 2, "name":"Toast Shield", "desc": "Crafted from only the finest of loafs", "cost": 80, "image":""},
+            { "id": 3, "name":"Bullet Bill Launcher", "desc": "Kinda heavy and slow, but really distructive", "cost": 150, "image":"https://www.mariowiki.com/images/thumb/3/31/NSMBW_Bill_Blaster_Artwork.png/1200px-NSMBW_Bill_Blaster_Artwork.png"},
+            { "id": 4, "name":"Super Missles", "desc": "As opposed to normal missles", "cost": 200, "image":"https://cdna.artstation.com/p/assets/images/images/008/772/752/large/chris-sulzbach-itm-supermissile-render.jpg?1515209587"},
+            { "id": 5, "name":"Mix Flower", "desc": "Especially good with a team of four", "cost": 300, "image":"https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/015baa7c-cf5d-4010-87a6-ebc9ce4c0d2d/dbj7gfc-71d693e3-1614-4d96-8dbf-ea87b2eca804.png/v1/fill/w_223,h_188,q_80,strp/mario_and_luigi__partners_in_time__the_mix_flower_by_shygamer108_dbj7gfc-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTg4IiwicGF0aCI6IlwvZlwvMDE1YmFhN2MtY2Y1ZC00MDEwLTg3YTYtZWJjOWNlNGMwZDJkXC9kYmo3Z2ZjLTcxZDY5M2UzLTE2MTQtNGQ5Ni04ZGJmLWVhODdiMmVjYTgwNC5wbmciLCJ3aWR0aCI6Ijw9MjIzIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0._PdQqf10uAFOp-wOk47YeOhLMJ3Dsq0e5luU_nN62jw"}
+        ],
+
+        "clothing": [
+            { "id": 8, "name":"Striped Sweater", "desc": "The best time to wear a striped sweater...", "cost": 100, "image":""},
+            { "id": 9, "name":"Mushroom Badge", "desc": "Restores 20% of HP", "cost": 150, "image":"https://www.mariowiki.com/images/thumb/3/37/MLBISDX_BadgesMenu.png/200px-MLBISDX_BadgesMenu.png"},
+            { "id": 10, "name":"Varia Suit", "desc": "Survive climate change!", "cost": 225, "image":"https://vignette.wikia.nocookie.net/metroid/images/0/08/3DS_MetroidSamusReturns_char_01.png/revision/latest?cb=20170617175630"},
+            { "id": 11, "name":"Diamond Armor", "desc": "Seems worthless, should I burn it?", "cost": 400, "image":"https://vignette.wikia.nocookie.net/minecraftpocketedition/images/5/5b/Diamondarmor.png/revision/latest/scale-to-width-down/340?cb=20160922012258"} 
+        ],
+
+        "TBD": [
+            { "id": 6, "name":"Master Sword", "desc": "A Sword that wields no strength unless the hand that holds it has courage", "cost": 1500, "image":""},
+            { "id": 7, "name":"Gaster Blaster", "desc": "*You feel like you're going to have a bad time", "cost": 2500, "image":""}
+        ]
+    }
+}

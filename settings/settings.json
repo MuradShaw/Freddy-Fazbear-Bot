@@ -1,0 +1,9 @@
+{
+    "Host": "localhost",
+    "User": "root",
+    "Password": "test1234",
+    "Database": "sadb",
+	
+	"currMin": 1,
+	"currMax": 3
+}

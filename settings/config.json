@@ -1,0 +1,12 @@
+{
+    "prefix": "!",
+    "currencyName": "Coins",
+    "coin_cooldown": 1000,
+
+    "blocked_channels": [
+        {"id": 492702456677924884},
+        {"id": 564945610738761732}
+    ],
+    
+    "token": "NjgxNTI5MjA5NzgwMzA1OTMz.XmvGlQ.KFcEgqTuhTqxvtkgIhsQvNLBARQ"
+}
